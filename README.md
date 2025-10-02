@@ -30,12 +30,12 @@ O objetivo principal é identificar e classificar áreas de acordo com o seu gra
 A implementação no GEE permitiu a análise eficiente de grandes volumes de dados geoespaciais, resultando na geração de um mapa de suscetibilidade com diferentes níveis de risco.
 
 🗺️ Resultado
-![Mapa final](results/mapa_final.png)
+![Mapa final](mapeamento-e-suscetibilidade-inundacoes/results/MapaFinal.png)
 
 
-📄 [Relatório completo (PDF)](docs/relatorio.pdf)
+📄 [Relatório completo (PDF)](mapeamento-e-suscetibilidade-inundacoes/docs/relatorio-Mapeamento de Suscetibilidade a Inundações Utilizando o Google Earth Engine.pdf)
 
-💻 [Script principal (main.js)](main.js)
+💻 [Script principal (main.js)](mapeamento-e-suscetibilidade-inundacoes/code/main.js)
 
 
 🧠 Palavras-chave
